@@ -1,7 +1,4 @@
 INDEX VERSION 1.131+C:\Users\Charishma\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-3784052463.index
-1234732435.index
-2587903985.index
 4044757637.index
 1465424949.index
